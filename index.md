@@ -18,6 +18,4 @@ I am an undergraduate student majoring in Cyber Science and Technology at the Un
 ## Selected Awards
   - **[Sep. 2025]** Yanbao Scholarship
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
