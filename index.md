@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate student majoring in Cyber Science and Technology at the University of Science and Technology of China (USTC). My research interests lie in llm security, particularly Deepfake detection and llm unlearning
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Deepfake detection:** 
+- **llm unlearning:** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2025]** Our project, 'LiteGuard: A Lightweight Deepfake Detection APP Based on Efficient Single-Frame Image and Temporal Residual Analysis,' won the Second Prize in the 18th National University Student Information Security Contest
+
+## Selected Awards
+  - **[Sep. 2025]** Yanbao Scholarship
 
 {% include_relative _includes/publications.md %}
 
