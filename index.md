@@ -11,6 +11,18 @@ I am an undergraduate student majoring in Cyber Science and Technology at the Un
 - **Deepfake detection:** 
 - **llm unlearning:** 
 
+## Education & Experience
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
+    <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
+  </div>
+  <div>
+    <strong><a href="https://en.ustc.edu.cn/">USTC</a></strong><br>
+    B.S. in Cyber Science and Technology, 2023 – present
+  </div>
+</div>
+
 ## News
 
 - **[Aug. 2025]** Our project, 'LiteGuard: A Lightweight Deepfake Detection APP Based on Efficient Single-Frame Image and Temporal Residual Analysis,' won the Second Prize in the 18th National University Student Information Security Contest
