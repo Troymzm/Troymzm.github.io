@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student majoring in Cyber Science and Technology at the University of Science and Technology of China (USTC). My research interests lie in llm security, particularly Deepfake detection and llm unlearning
+I am an undergraduate student majoring in Cyber Science and Technology at the University of Science and Technology of China (USTC). Previously, I have conducted research in Deepfake Detection and LLM Unlearning. My current research interests focus on Mechanistic Interpretability of Large Language Models. 
 
 ## Research Interests
 
-- **Deepfake detection:** 
-- **llm unlearning:** 
+- **LLM Unlearning:** Investigated methods to evaluate unlearning effectiveness and model utility using Information Theory (e.g., Shannon Entropy) to balance data removal and capability retention.
+- **Mechanistic Interpretability:** Exploring the internal mechanics of LLMs using tools like Sparse Autoencoders (SAEs) to understand how knowledge is stored and how models perform reasoning.
 
 ## Education & Experience
 
