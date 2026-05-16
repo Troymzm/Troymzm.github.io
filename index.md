@@ -28,9 +28,9 @@ I am an undergraduate student majoring in Cyber Science and Technology at the Un
 - **[Aug. 2025]** Our project, 'LiteGuard: A Lightweight Deepfake Detection APP Based on Efficient Single-Frame Image and Temporal Residual Analysis,' won the Second Prize in the 18th National University Student Information Security Contest
 
 ## Selected Awards
+  - **[Mar. 2026]** National Encouragement Scholarship
   - **[Jan. 2026]** "Academic Star" Honorary Title
   - **[Jan. 2026]** Yanbao Scholarship
-  - **[Sep. 2025]** National Encouragement Scholarship
   - **[Aug. 2025]** Second Prize, the 18th National University Student Information Security Contest
   - **[Nov. 2024]** Silver Medal, Outstanding Student Scholarship
 
