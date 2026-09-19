@@ -8,8 +8,8 @@ I am an undergraduate student majoring in Cyber Science and Technology at the Un
 
 ## Research Interests
 
-- **LLM Unlearning:** Investigated methods to evaluate unlearning effectiveness and model utility using Information Theory (e.g., Shannon Entropy) to balance data removal and capability retention.
-- **Mechanistic Interpretability:** Exploring the internal mechanics of LLMs using tools like Sparse Autoencoders (SAEs) to understand how knowledge is stored and how models perform reasoning.
+- **LLM Unlearning:** Designing a benchmark to evaluate entity-level llm unlearning using a fictional knowledge graph and developing an algorithm that can unlearn specific knowledge without harming its general capabilities. 
+- **Mechanistic Interpretability:** Exploring the internal mechanics of LLMs using tools like Sparse Autoencoders (SAEs) to understand how large language models work and how to make them safer.
 
 ## Education & Experience
 
@@ -25,7 +25,7 @@ I am an undergraduate student majoring in Cyber Science and Technology at the Un
 
 ## News
 
-- **[Aug. 2025]** Our project, 'LiteGuard: A Lightweight Deepfake Detection APP Based on Efficient Single-Frame Image and Temporal Residual Analysis,' won the Second Prize in the 18th National University Student Information Security Contest
+- **[Aug. 2025]** Our project, 'LiteGuard: A Lightweight Deepfake Detection APP Based on Efficient Single-Frame Image and Temporal Residual Analysis', won the Second Prize in the 18th National University Student Information Security Contest
 
 ## Selected Awards
   - **[Mar. 2026]** National Encouragement Scholarship
