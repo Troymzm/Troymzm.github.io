@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student majoring in Cyber Science and Technology at the University of Science and Technology of China (USTC). Previously, I have conducted research in Deepfake Detection and LLM Unlearning. My current research interests focus on Mechanistic Interpretability of Large Language Models. 
+I am an undergraduate student majoring in Cyber Science and Technology at the University of Science and Technology of China (USTC). I will be joining the [Gaoling School of Artificial Intelligence at Renmin University of China (RUC GSAI)](https://ai.ruc.edu.cn/) for graduate studies.
+
+Previously, I conducted research on deepfake detection and LLM unlearning at USTC under the supervision of Prof. [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/). I am currently conducting research on the mechanistic interpretability of LLM at RUC GSAI under the supervision of Associate Prof. [Xiting Wang](https://gsai.ruc.edu.cn/english/wangxt).
 
 ## Research Interests
 
